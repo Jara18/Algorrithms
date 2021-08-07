@@ -17,5 +17,5 @@ public static boolean anagram(String a, String b) {
 				if(!isAnagram) break;
 			}
 		}
-		return isAnagram;
-	}
+	return isAnagram;
+}
